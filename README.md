@@ -1,3 +1,16 @@
+## Proje Bağlamı
+
+-Bu çalışma, Workintech Data Analysis & Data Science Bootcamp kapsamında
+gerçekleştirilen, yönlendirmeli (guided) bir uygulama çalışmasıdır.
+Problem tanımı, veri seti ve temel yönlendirmeler eğitim içeriği
+tarafından sağlanmıştır.
+
+-Notebook içerisinde yer alan veri işleme (data processing) adımları, analiz süreci ve
+Python kodlarının tamamı, öğrenme ve pratik amacıyla tarafımca
+uygulanmış ve geliştirilmiştir.
+
+
+
 ## Reviews Translator 📚
 
 Artık bazı değişkenlerin customer satisfaction üzerindeki etkisine dair ilk anlayışımıza sahibiz. Özellikle, review score’un, order delivery süresinin uzunluğundan olumsuz etkilendiği görülüyor.
